@@ -2,7 +2,7 @@
 
 # 🧠 DealMemory
 
-### **Your sales team's memory, built into every deal.**
+### **Your sales team's memory, built into every deal**
 
 **DealMemory is an AI deal-intelligence agent that uses persistent memory to remember past deal experiences, learn from outcomes, and provide better-informed recommendations for future deals.**
 
