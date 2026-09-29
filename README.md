@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 DealMemory
+#  DealMemory
 
 ### **Your sales team's memory, built into every deal**
 
