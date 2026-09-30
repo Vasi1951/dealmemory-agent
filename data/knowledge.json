@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Value-Based Objection Handling",
+    "category": "Sales methodology",
+    "summary": "When a buyer says the price is too high, clarify the business outcome and quantify the cost of the current problem before discussing concessions.",
+    "guidance": "Use a value hypothesis, payback estimate, and success metric. Treat discounting as a later commercial option, not the first response."
+  },
+  {
+    "title": "Technical Proof for Implementation Risk",
+    "category": "Implementation risks",
+    "summary": "Technical stakeholders need evidence that the proposed workflow can integrate with current systems and be delivered in manageable stages.",
+    "guidance": "Use a focused proof, integration boundary map, sandbox demo, or phased rollout plan to reduce uncertainty."
+  },
+  {
+    "title": "Security and Compliance Discovery",
+    "category": "Security / compliance",
+    "summary": "Security objections are often a decision gate rather than a generic request for documentation.",
+    "guidance": "Map the security stakeholder, required evidence, data handling questions, audit controls, and approval sequence early in the deal."
+  },
+  {
+    "title": "Competitive Displacement",
+    "category": "Sales methodology",
+    "summary": "Competitive deals are won by connecting incumbent gaps to measurable customer outcomes, not by listing more features.",
+    "guidance": "Document the status quo cost, define a differentiated outcome, and give the executive sponsor a clear reason to change."
+  },
+  {
+    "title": "Stakeholder Change Management",
+    "category": "Sales methodology",
+    "summary": "A champion change can reset the business case and remove momentum from an otherwise healthy evaluation.",
+    "guidance": "Re-qualify the new stakeholder, rebuild the success criteria, and maintain a multi-threaded mutual action plan."
+  }
+]
