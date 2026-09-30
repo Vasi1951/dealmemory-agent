@@ -27,7 +27,7 @@ DealMemory keeps experience, Vault knowledge, and model reasoning distinct so a 
 
 ## Architecture
 
-- **DealMemory / Hindsight:** what happened — deal context, outcome, tactics, and lessons.
+- **DealMemory / Hindsight:** what happened deal context, outcome, tactics, and lessons.
 - **Vybe Intelligence Vault:** what the organization can use as supporting knowledge.
 - **Reasoning:** how current context and evidence become a strategy, risks, and next actions.
 - **Demo fallback:** local JSON memory and deterministic reasoning keep the selection demo runnable without credentials or internet.
